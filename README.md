@@ -2,9 +2,9 @@
 
 <br>
 
-### 🎓 Undergraduate Student | Computer Science & Engineering
+### 🎓 Undergraduate Student | Information & Communication Engineering
 
-* 🎓 Pursuing a B.Sc. in Computer Science & Engineering at **Pabna University of Science and Technology (PUST)**
+* 🎓 Pursuing a B.Sc. in Information & Communication Engineering at **Pabna University of Science and Technology (PUST)**
 * 🌱 Currently learning **Data Structures & Algorithms in C++**
 * 💻 Practicing **Competitive Programming** on Codeforces and other online judges
 * 🧠 Exploring **Backend Development, Software Engineering & System Design**
